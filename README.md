@@ -29,7 +29,7 @@
   - else - show an error(wrong credentials) 
 - in menu page user can chooses option (-> withdraw money, -> check how much money is in stock
 - in withdraw money page,  display return to the menu button -> menu page, user can input amount of how much he wants to withdrow and after clicking on withdrow btn check how much money yser has
-  - if money < user's input shows an error(money is no enought), 
+  - if money < user's input, than shows an error(money is no enought), 
   - else current user stock minus user input, than withdrow money to user -> main page
 - in check how much money is in stock page user can see hom much money he has, display return to the menu button -> menu page
 - header component has exit button which clear user info from the client and -> enter card number and card pin page
