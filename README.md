@@ -7,8 +7,8 @@
 - card pin - digits that user created to get acess to card in the ATM, contains 4 characters
 - client - atm machine
 - server - a computer with installed software 
-- request - is data package transferred from the client to the server
-- respone - is data package transferred from the server to the client
+- request - data package transferred from the client to the server
+- response - data package transferred from the server to the client
 - -> - redirect to page
 
 ## Elements 
