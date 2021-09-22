@@ -34,3 +34,6 @@
 - in check how much money is in stock page user can see hom much money he has, display return to the menu button -> menu page
 - header component has exit button which clear user info from the client and -> enter card number and card pin page
 
+![image](https://user-images.githubusercontent.com/47118920/134338289-1fb8a3b5-cda2-403e-bec3-0eb23a6f4a1c.png)
+
+
