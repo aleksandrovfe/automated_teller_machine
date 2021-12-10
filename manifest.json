@@ -3,6 +3,8 @@
   "short_name": "Bolt",
   "start_url": "/?utm_source=homescreen",
   "display": "standalone",
+  "background_color": "#FBFBFB",
+  "theme_color": "#FBFBFB",
   "icons": [
     {
       "src": "favicon.ico",
