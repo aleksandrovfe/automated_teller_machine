@@ -1,7 +1,8 @@
 {
   "name": "Logitech Bolt Software",
   "short_name": "Bolt",
-  "start_url": "/?utm_source=homescreen",
+  "start_url": ".",
+  "scope": ".",
   "display": "standalone",
   "background_color": "#FBFBFB",
   "theme_color": "#FBFBFB",
